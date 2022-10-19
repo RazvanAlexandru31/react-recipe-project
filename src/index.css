@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.card-animation{
+    transition: 1s;
+}   
+.card-animation:hover{
+    transform: scale(1.2);
+}   

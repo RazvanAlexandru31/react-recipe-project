@@ -1,0 +1,44 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Chocolate Chip Cheese Ball",
+      "ingredients": [
+        "1 (8 ounce) package cream cheese, softened",
+        "½ cup butter, softened",
+        "2 tablespoons brown sugar",
+        "1 teaspoon vanilla extract",
+        "2 cup miniature semisweet chocolate chips"
+      ],
+      "directions": "In a medium bowl, beat together cream cheese and butter until smooth. Mix in confectioners' sugar, brown sugar and vanilla. Stir in chocolate chips. Cover, and chill in the refrigerator for 2 hours. Roll the cheese ball in finely chopped pecans before serving.",
+      "prepTime": "50 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Chef John's Scones",
+      "ingredients": [
+        "1 cups all-purpose flour",
+        "½ cup milk",
+        "5 tablespoons cold unsalted butter, cut into pieces",
+        "1 tablespoon milk",
+        "1 large egg, lightly beaten"
+      ],
+      "directions": "Preheat the oven to 400 degrees F (200 degrees C). Whisk flour, sugar, baking powder, and salt together in a mixing bowl. Cut in butter with a knife or pastry blender until mixture resembles coarse crumbs. Bake in the preheated oven until scones have risen and turned golden brown, about 15 minutes. ",
+      "prepTime": "20 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Caprese Appetizer",
+      "ingredients": [
+        "20 grape tomatoes",
+        "10 ounces mozzarella cheese, cubed",
+        "2 tablespoons extra virgin olive oil",
+        "1 pinch salt",
+        "1 pinch ground black pepper",
+        "20 toothpicks"
+      ],
+      "directions": "Toss tomatoes, mozzarella cheese, olive oil, basil, salt, and pepper together in a bowl until well coated. Skewer one tomato and one piece of mozzarella cheese on each toothpick.",
+      "prepTime": "15 minutes"
+    }
+  ]
+}
